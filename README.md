@@ -1,0 +1,2 @@
+# Task-2--Exploratory-Data-Analysis-on-Titanic-Dataset
+I used the Titanic dataset to work on an EDA project during my internship. The objective was to examine passenger data in order to identify trends and variables that affect survival rates. In order to comprehend the connections between variables like age, gender, class, fare and embarkation point, I cleaned, transformed and visualized the data.
